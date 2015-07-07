@@ -26,14 +26,7 @@
   width:361px;
   height:571px;
 }
-#u1 {
-  position:absolute;
-  left:2px;
-  top:277px;
-  width:356px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
+
 #u3 {
   position:absolute;
   left:33px;
@@ -53,13 +46,6 @@
   width:115px;
   height:36px;
 }
-#u4 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:114px;
-  white-space:nowrap;
-}
 #u5 {
   position:absolute;
   left:10px;
@@ -74,6 +60,7 @@
   width:50px;
   height:50px;
 }
+/* 
 #u6 {
   position:absolute;
   left:2px;
@@ -82,6 +69,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+*/
 #u8 {
   position:absolute;
   left:33px;
@@ -101,27 +89,7 @@
   width:115px;
   height:36px;
 }
-#u9 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:114px;
-  white-space:nowrap;
-}
-#u10 {
-  position:absolute;
-  left:10px;
-  top:10px;
-  width:50px;
-  height:50px;
-}
-#u10_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:50px;
-  height:50px;
-}
+/*
 #u11 {
   position:absolute;
   left:2px;
@@ -130,6 +98,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+*/
 #u12 {
   position:absolute;
   left:188px;
@@ -207,6 +176,11 @@
   top:26px;
   width:138px;
   word-wrap:break-word;
+  font-family:'Handwriting-Dakota', 'Handwriting - Dakota';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFFFF;
 }
 #u18 {
   position:absolute;
