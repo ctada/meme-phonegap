@@ -266,3 +266,6 @@
   text-align:center;
   line-height:normal;
 }
+.selected{
+  opacity: .5;
+}
