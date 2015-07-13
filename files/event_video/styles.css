@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:303px;
+  width:340px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -63,58 +63,54 @@
 }
 #u5 {
   position:absolute;
-  left:53px;
-  top:152px;
-  width:250px;
-  height:150px;
+  left:46px;
+  top:296px;
+  width:290px;
+  height:218px;
 }
 #u5_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:251px;
-  height:151px;
+  width:291px;
+  height:219px;
 }
 #u6 {
   position:absolute;
   left:2px;
-  top:67px;
-  width:246px;
+  top:101px;
+  width:286px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u7 {
   position:absolute;
-  left:66px;
-  top:164px;
-  width:224px;
-  height:109px;
-  font-family:'AmericanTypewriter', 'American Typewriter';
-  font-weight:400;
-  font-style:normal;
-  font-size:18px;
-  color:#009999;
+  left:20px;
+  top:234px;
+  width:116px;
+  height:140px;
 }
 #u7_img {
   position:absolute;
-  left:-2px;
-  top:-2px;
-  width:229px;
-  height:114px;
+  left:0px;
+  top:0px;
+  width:116px;
+  height:140px;
 }
 #u8 {
   position:absolute;
   left:2px;
-  top:44px;
-  width:220px;
+  top:62px;
+  width:112px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u9 {
   position:absolute;
   left:53px;
-  top:340px;
-  width:232px;
-  height:170px;
+  top:98px;
+  width:287px;
+  height:52px;
   font-family:'AmericanTypewriter', 'American Typewriter';
   font-weight:400;
   font-style:normal;
@@ -124,22 +120,22 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:233px;
-  height:171px;
+  width:288px;
+  height:53px;
 }
 #u10 {
   position:absolute;
   left:0px;
   top:0px;
-  width:232px;
+  width:287px;
   word-wrap:break-word;
 }
 #u11 {
   position:absolute;
   left:53px;
-  top:98px;
-  width:200px;
-  height:54px;
+  top:150px;
+  width:287px;
+  height:52px;
   font-family:'AmericanTypewriter', 'American Typewriter';
   font-weight:400;
   font-style:normal;
@@ -149,39 +145,13 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:201px;
-  height:55px;
+  width:288px;
+  height:53px;
 }
 #u12 {
   position:absolute;
   left:0px;
   top:0px;
-  width:200px;
-  word-wrap:break-word;
-}
-#u13 {
-  position:absolute;
-  left:150px;
-  top:490px;
-  width:153px;
-  height:50px;
-  font-family:'Noteworthy-Light', 'Noteworthy Light', 'Noteworthy';
-  font-weight:200;
-  font-style:normal;
-  font-size:24px;
-  color:#FFFFFF;
-}
-#u13_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:154px;
-  height:51px;
-}
-#u14 {
-  position:absolute;
-  left:2px;
-  top:6px;
-  width:149px;
+  width:287px;
   word-wrap:break-word;
 }
