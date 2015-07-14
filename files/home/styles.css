@@ -167,7 +167,7 @@
   font-family:'AmericanTypewriter', 'American Typewriter';
   font-weight:400;
   font-style:normal;
-  font-size:18px;
+  font-size:24px;
   color:#009999;
 }
 #u14_img {
@@ -180,7 +180,7 @@
 #u15 {
   position:absolute;
   left:2px;
-  top:76px;
+  top:58px;
   width:225px;
   word-wrap:break-word;
 }
